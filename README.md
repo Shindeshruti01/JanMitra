@@ -4,7 +4,7 @@ This workspace is now set up as a connected full-stack project:
 
 - `backend/` contains the Flask API
 - `frontend/` contains the React + JS UI
-- `desh-connect-ai-main/` remains as your original React + TypeScript UI reference
+
 
 ## What was integrated
 
