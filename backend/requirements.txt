@@ -1,0 +1,9 @@
+Flask
+flask-cors
+bcrypt
+PyJWT
+mysql-connector-python
+pandas
+numpy
+networkx
+scikit-learn
